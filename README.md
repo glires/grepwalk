@@ -2,4 +2,6 @@
 
 ## Extension of a genomic fragment using a FASTQ file
 
-Coded by Kohji OKAMURA, Ph.D.
+GrepWalk ver. 0.7 
+ 
+Coded by Kohji OKAMURA, Ph.D. 
